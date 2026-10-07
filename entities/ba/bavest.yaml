@@ -69,7 +69,6 @@ offers:
       method: form
       url: https://www.bavest.co/en/company/contact
       instructions: Contact Bavest through its form to discuss the startup discount described on the API page.
-    terms_url: https://www.bavest.co/en/stock-api
     source_ids:
       - src_0ee4f38ec952e0118ff1525cdec23c9e887fa0d074e008bd39b60c8a4d1f8c7c
       - src_860f86dfef03784144f3d713aec2c5fc34a09b0b2068878609fbb07cd7f4459b
